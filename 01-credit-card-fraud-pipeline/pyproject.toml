@@ -1,0 +1,28 @@
+[project]
+name = "fraud-etl-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ariamehr1234", email = "amirt3790@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.9",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pyarrow>=26.0.0",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "shap>=0.54.1",
+    "xgboost>=3.4.1",
+]
+
+[project.scripts]
+fraud-etl-pipeline = "fraud_etl_pipeline:main"
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"

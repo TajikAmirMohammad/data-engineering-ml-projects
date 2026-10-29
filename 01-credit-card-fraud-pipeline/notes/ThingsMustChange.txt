@@ -1,0 +1,21 @@
+fraudlent ← fraudulent
+Distributaion / Distribuation ← Distribution
+Finantial ← Financial
+miniority ← minority
+Lograthmic ← Logarithmic
+relevent ← relevant
+Mehtodology ← Methodology
+chekcs ← checks
+Howerver ← However
+threshould ← threshold
+distibution ← distribution
+dawrfing ← dwarfing
+Nan ← NaN
+y_trian ← y_train
+woekspace ← workspace
+Bechmarking ← Benchmarking
+Enginner ← Engineer یا، بسته به جمله، Engineering
+sampples ← samples
+cost-sesitive ← cost-sensitive
+Execuation ← Execution
+overhaed ← overhead
